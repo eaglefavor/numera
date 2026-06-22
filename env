@@ -1,0 +1,2 @@
+# Stripe secret key — NEVER commit this file to Git
+STRIPE_SECRET_KEY=sk_live_REPLACE_WITH_YOUR_NEW_KEY
